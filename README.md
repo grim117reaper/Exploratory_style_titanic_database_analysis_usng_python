@@ -5,6 +5,6 @@ Analyzed and explored each features individually in the database
 
 Predicted results using 8 different algorithms- Logistics regression, K-nearest Neighbours, Linear support vector machine(SVC), Gradient Boosting Tree, Gaussian Naive Bayes, Stochastic Gradient Descent, Decision Tree Classifier, CatBoost Algorithm
 
-CatBoost algorithm gave the best 10 fold Cross-validation accuracy - 83%
+CatBoost algorithm gave the best 10 fold Cross-validation accuracy - 81%
 
 This model's predicted result got a public score of 0.77033 on kaggle
